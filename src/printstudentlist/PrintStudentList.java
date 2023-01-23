@@ -5,7 +5,7 @@
 package printstudentlist;
 
 /**
- * liverpool vs chelsea the worst team
+ * liverpool vs chelsea the worst team. I disagree, Only liverpool is bad
  * @author srinivsi
  */
 public class PrintStudentList {
