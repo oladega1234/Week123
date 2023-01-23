@@ -28,7 +28,7 @@ public class PrintStudentList {
        s3.setAge(20);
        list[0]=s1;
        list[1]=s2;
-       list[2]=s3;
+       list[2]=s3;//
        for(int i=0;i<list.length;i++ )
        { //abcd
            System.out.println(list[i].getName() + list[i].getAge());
