@@ -5,7 +5,7 @@
 package printstudentlist;
 
 /**
- * liverpool the worst team
+ * liverpool vs chelsea the worst team
  * @author srinivsi
  */
 public class PrintStudentList {
